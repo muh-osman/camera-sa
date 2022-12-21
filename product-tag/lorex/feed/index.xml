@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Lorex &#8211; Camera SA</title>
-	<atom:link href="/product-tag/lorex/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://muh-osman.github.io/camera-sa/product-tag/lorex/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muh-osman.github.io/camera-sa/</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Dec 2022 11:36:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/12/cam-logo.png</url>
+	<url>https://muh-osman.github.io/camera-sa/wp-content/uploads/2022/12/cam-logo.png</url>
 	<title>Lorex &#8211; Camera SA</title>
-	<link>/</link>
+	<link>https://muh-osman.github.io/camera-sa/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Lorex 4K RG59 Power Accessory Cable, Video Cable for Security Camera Systems</title>
-		<link>/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/</link>
-					<comments>/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/#respond</comments>
+		<link>https://muh-osman.github.io/camera-sa/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/</link>
+					<comments>https://muh-osman.github.io/camera-sa/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/#respond</comments>
 		
 		<dc:creator><![CDATA[camsa]]></dc:creator>
 		<pubDate>Mon, 12 Dec 2022 11:36:21 +0000</pubDate>
 				<guid isPermaLink="false">http://localhost/camera-sa/?post_type=product&#038;p=4599</guid>
 
-					<description><![CDATA[Extend Security Camera Distance &#8211; This camera cable extends your reach of security cameras up to 100 feet Video and Power Coax Cable &#8211; 4K compatible CM rated for any Lorex branded 4K analog camera; up to 5MP resolution for non-Lorex cameras Tested and Certified for Analog HD and Analog &#8211; Works with any brand &#8230;<p class="read-more"> <a class="" href="/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/"> <span class="screen-reader-text">Lorex 4K RG59 Power Accessory Cable, Video Cable for Security Camera Systems</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Extend Security Camera Distance &#8211; This camera cable extends your reach of security cameras up to 100 feet Video and Power Coax Cable &#8211; 4K compatible CM rated for any Lorex branded 4K analog camera; up to 5MP resolution for non-Lorex cameras Tested and Certified for Analog HD and Analog &#8211; Works with any brand &#8230;<p class="read-more"> <a class="" href="https://muh-osman.github.io/camera-sa/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/"> <span class="screen-reader-text">Lorex 4K RG59 Power Accessory Cable, Video Cable for Security Camera Systems</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-type="widget" data-csa-c-content-id="featurebullets" data-csa-c-slot-id="featurebullets_feature_div" data-csa-c-asin="B07GP5QF3L" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="vuv01d-8ji5bt-2u73da-xmu0">
 <div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
 <ul class="a-unordered-list a-vertical a-spacing-mini">
@@ -57,7 +57,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muh-osman.github.io/camera-sa/product/lorex-4k-rg59-power-accessory-cable-video-cable-for-security-camera-systems/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

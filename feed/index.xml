@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Camera SA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://muh-osman.github.io/camera-sa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muh-osman.github.io/camera-sa/</link>
 	<description></description>
-	<lastBuildDate>Sun, 11 Dec 2022 13:41:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Dec 2022 11:04:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,31 +21,11 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/12/cam-logo.png</url>
+	<url>https://muh-osman.github.io/camera-sa/wp-content/uploads/2022/12/cam-logo.png</url>
 	<title>Camera SA</title>
-	<link>/</link>
+	<link>https://muh-osman.github.io/camera-sa/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[camsa]]></dc:creator>
-		<pubDate>Sun, 11 Dec 2022 13:41:26 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost/camera-sa/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
